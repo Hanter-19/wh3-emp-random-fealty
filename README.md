@@ -1,4 +1,4 @@
-# Random Starting Fealty
+# Elector Count Fealty Randomiser
 - A mod for Total War: Warhammer 3
 - Randomizes Elector Count Fealty at the start of an Empire campaign
 
