@@ -10,7 +10,7 @@ mct_mod:set_title("hanter_emp_random_fealty_mod_title", true);
 mct_mod:set_author("Hanter");
 mct_mod:set_description("hanter_emp_random_fealty_mod_description", true);
 
--- mct_mod:set_workshop_id("");
+mct_mod:set_workshop_id("2981189943");
 mct_mod:set_version(current_version);
 mct_mod:set_main_image("ui/mct/hanter_emp_random_fealty.png", 500, 500);
 
