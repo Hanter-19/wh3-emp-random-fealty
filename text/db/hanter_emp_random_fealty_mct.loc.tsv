@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/hanter_emp_random_fealty_mct.loc		
+hanter_emp_random_fealty_mod_title	Elector Counts Fealty Randomiser	false
+hanter_emp_random_fealty_mod_description	This mod will randomise the Fealty of each Elector Count at the start of a new Empire campaign (where the Fealty system is applicable).\\n\\nRequires starting a new campaign.\\n\\nYou can configure the minimum and maximum random values.	false
+hanter_emp_random_fealty_enabled_text	Enable Mod	false
+hanter_emp_random_fealty_enabled_tooltip	Checked: mod will trigger at the start of a new Empire campaign.\\n\\nUnchecked: mod will not trigger.	false
+hanter_emp_random_fealty_min_text	Minimum Fealty	false
+hanter_emp_random_fealty_min_tooltip	Minimum Fealty the randomisation will allow.\\n\\nMake sure this value is less than Maximum Fealty!	false
+hanter_emp_random_fealty_max_text	Maximum Fealty	false
+hanter_emp_random_fealty_max_tooltip	Maximum Fealty the randomisation will allow.\\n\\nMake sure this value is more than Minimum Fealty!	false
